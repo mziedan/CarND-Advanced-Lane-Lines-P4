@@ -155,6 +155,7 @@ Pipeline becames relatively nonstable in cases of very fast turns and difficult 
 
 - Include additional information on each frame (statistics, etc.)
 
+---
 
 ### Another Solution here:
 "https://github.com/mziedan/P4_Advanced_Lane_Detection-Another-Solution"
