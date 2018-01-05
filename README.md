@@ -154,3 +154,6 @@ Pipeline becames relatively nonstable in cases of very fast turns and difficult 
 - More experiments with threshold values and color spaces (and different combination of both) could be performed
 
 - Include additional information on each frame (statistics, etc.)
+
+
+## Another Solution here: "https://github.com/mziedan/P4_Advanced_Lane_Detection-Another-Solution"
